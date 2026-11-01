@@ -1,0 +1,64 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261031235549
+Username: DESKTOP-RHIQA0U\Kenny Mercy
+RunAs User: DESKTOP-RHIQA0U\Kenny Mercy
+Configuration Name: 
+Machine: DESKTOP-RHIQA0U (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 30476
+PSVersion: 5.1.26100.8655
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8655
+BuildVersion: 10.0.26100.8655
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\terminal-log.txt
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> javac Operator.java
+error: file not found: Operator.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> javac Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators
+3.3333333333333335
+14
+20
+4.0
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> javac Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operator
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> javac Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
+PS C:\Users\Kenny Mercy\Documents\Personal\The Entrepreneurship Network\java\week01\Day 03> java Operators.java
+
